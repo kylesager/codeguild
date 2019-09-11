@@ -1,15 +1,5 @@
 # filename: calculator.py
-# learning objective: if/elif/else statements
 
-# MVP - most viable product
-# print welcome msg - d
-# allow the user to enter two numbers - d
-# allow the computer to randomly choose an operator
-# print results using a conditional statement
-
-# Stretch
-# allow to pay again
-# keep track of their "score"
 
 import random
 print(("*"*10) + "Welcome to the Gambling Calculator Game" + ("*"*10))
